@@ -9963,5 +9963,8 @@
   "Polish": "Polish",
   "Indonesian": "Indonesian",
   "Persian": "Persian",
-  "NotAssigned": "-"
+  "NotAssigned": "-",
+  "ReverseOxyman": "Reverse Oxyman",
+  "ReverseOxymanInfo": "Get your oxygen a bit low for advantages",
+  "ReverseOxymanInfoLong": "(Crewmate):\\nAs the Reverse Oxyman, you need to vent to keep your oxygen up and survive, but if it is too high, you'll have disadvantages, but if it is too low, you'll have advantages."
 }
