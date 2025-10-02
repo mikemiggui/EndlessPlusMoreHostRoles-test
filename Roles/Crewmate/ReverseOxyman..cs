@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace EHR.Crewmate;
 
-public class ReverseReverseOxyman : RoleBase
+public class ReverseOxyman : RoleBase
 {
     public static bool On;
 
