@@ -9963,5 +9963,8 @@
   "Polish": "Polonês",
   "Indonesian": "Indonésia",
   "Persian": "Persa",
-  "NotAssigned": "-"
+  "NotAssigned": "-",
+  "ReverseOxyman": "Oximan Reverso",
+  "ReverseOxymanInfo": "Fique com baixo oxigênio",
+  "ReverseOxymanInfoLong": "(Tripulante):\\nComo o Oximan Reverso, você precisa usar ventilações para conseguir oxigênio e viver, mas ter muito oxigênio te dá desvantagens e ter pouco oxigênio te da vantagens."
 }
