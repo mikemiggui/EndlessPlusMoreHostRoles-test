@@ -574,5 +574,9 @@ public enum CustomRoles
     Warden, // Ghost role
     Watcher,
     Workhorse,
-    Youtuber
+    Youtuber,
+
+    // EPMHR Roles that aren't in alphabetical order since i don't know if it matters
+
+    ReverseOxyman
 }
